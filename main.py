@@ -1,6 +1,7 @@
 # /usr/bin/python3
 # Author == Shawn Dooley
-# Save 10 minutes every 2 weeks with this autofiller 
+# Save 10 minutes every 2 weeks with this autofiller
+# pyautogui == https://pyautogui.readthedocs.io/en/latest/cheatsheet.html
 import pyautogui as pg
 import time
 
